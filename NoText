@@ -1,0 +1,5 @@
+game.StarterGui:SetCore("SendNotification", {
+	Title = "CryingOS";
+	Text = "Nothing To Execute.";
+	Duration = "8";
+})
