@@ -1,5 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
-	Title = "CryingOS";
+	Title = "CryingOS - V2";
 	Text = "CryingOS Has Been Injected!";
 	Duration = "8";
 })
